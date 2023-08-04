@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Site Title'
-copyright = '2022, Your name'
-author = 'Your Name'
+project = 'Musashi'
+copyright = '2023, Gustavo Garcia'
+author = 'Gustavo Garcia'
 
 
 
