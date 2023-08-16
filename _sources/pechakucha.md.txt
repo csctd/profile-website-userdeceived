@@ -1,6 +1,8 @@
 # TD Summer 2023
 
-```{include} _static/play_pause.html
+<div id="slideshow">
+
+```{include} _static/buttons.html
 ```
 
 ```{card} 
@@ -14,3 +16,4 @@
 
 ![sky](/_static/img/sky.jpg)
 ```
+</div>
