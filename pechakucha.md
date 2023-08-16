@@ -5,6 +5,8 @@
 ```{include} _static/buttons.html
 ```
 
+````{card-carousel} 2
+
 ```{card} 
 :class-card: slide
 
@@ -16,4 +18,10 @@
 
 ![sky](/_static/img/sky.jpg)
 ```
+
+```{card} 
+:class-card: slide
+```
+
+````
 </div>
