@@ -1,6 +1,6 @@
 # Welcome To The Party.
 
-I hope you all are doing well! Welcome to my page. 
+I hope you all are doing well! Welcome to my page :).
 
 
 In this website, you will be able to see how I spent my time during TD.
