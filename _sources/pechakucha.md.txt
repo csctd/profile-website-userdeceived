@@ -21,7 +21,24 @@
 
 ```{card} 
 :class-card: slide
+
+![walk](/_static/img/walk.jpg)
 ```
 
+```{card} 
+:class-card: slide
+
+![legcurl](/_static/img/legcurl.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![legpress](/_static/img/legpress.jpg)
+```
+
+
+
 ````
+<!-- do not edit below here -->
 </div>
