@@ -37,7 +37,65 @@
 ![legpress](/_static/img/legpress.jpg)
 ```
 
+```{card} 
+:class-card: slide
 
+![bachatasesh](/_static/img/bachatasesh.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![wmans](/_static/img/wmans.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![rat](/_static/img/rat.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![wstickers](/_static/img/wstickers.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![trees](/_static/img/trees.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![studysesh](/_static/img/studysesh.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![ufc4](/_static/img/ufc4.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![straightmoggin](/_static/img/straightmoggin.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![mansion](/_static/img/mansion.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![compsci](/_static/img/compsci.jpg)
+```
 
 ````
 <!-- do not edit below here -->
