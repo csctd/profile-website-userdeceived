@@ -97,6 +97,36 @@
 ![compsci](/_static/img/compsci.jpg)
 ```
 
+```{card} 
+:class-card: slide
+
+![gang](/_static/img/gang.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![hacker](/_static/img/hacker.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![randomshit](/_static/img/randomshit.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![shantia](/_static/img/shantia.jpg)
+```
+
+```{card} 
+:class-card: slide
+
+![twin](/_static/img/twin.jpg)
+```
+
 ````
 <!-- do not edit below here -->
 </div>
